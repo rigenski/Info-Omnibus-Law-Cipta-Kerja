@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/riyhs/Info-UU-Cipta-Kerja)
-[![Contributors](https://img.shields.io/github/contributors/riyhs/Info-UU-Cipta-Kerja)](https://github.com/riyhs/Info-UU-Cipta-Kerja)
+[![Contributors](https://img.shields.io/github/contributors/riyhs/Info-UU-Cipta-Kerja)](https://github.com/riyhs/Info-UU-Cipta-Kerja/graphs/contributors)
 
 # Info UU Cipta Kerja
 
