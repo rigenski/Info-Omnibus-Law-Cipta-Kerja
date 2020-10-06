@@ -14,5 +14,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Apa itu RUU Cipta Kerja
 
 - [Apa itu RUU Cipta Kerja](https://money.kompas.com/read/2020/10/05/063213126/jadi-kontroversi-apa-itu-ruu-cipta-kerja?page=all)
+- [Thread perbandingan RUU Cipta Kerja](https://twitter.com/mitatweets/status/1313295806766620672)
 
 Catatan : Jika kamu memiliki Kategori lain, bisa kamu tambahkan sendiri.
