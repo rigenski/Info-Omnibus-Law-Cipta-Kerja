@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/riyhs/Info-Omnibus-Law-Cipta-Kerja)
-[![Contributors](https://img.shields.io/github/contributors/riyhsInfo-Omnibus-Law-Cipta-Kerja)](https://github.com/riyhs/Info-Omnibus-Law-Cipta-Kerja/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/riyhs/Info-Omnibus-Law-Cipta-Kerja)](https://github.com/riyhs/Info-Omnibus-Law-Cipta-Kerja/graphs/contributors)
 
-# Info UU Cipta Kerja
+# Info Omnibus Law Cipta Kerja
 
 ## Apa Isi Repository Ini?
 
