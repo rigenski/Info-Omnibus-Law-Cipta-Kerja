@@ -7,9 +7,9 @@
 
 Repositiry ini berisi informasi-informasi tentang Omnibus Law Cipta Kerja.
 
-## How to contribute
+## Cara ikut berkontribusi
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md).
+Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Apa itu RUU Cipta Kerja
 
