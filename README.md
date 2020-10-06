@@ -15,6 +15,7 @@ Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [Apa itu RUU Cipta Kerja](https://money.kompas.com/read/2020/10/05/063213126/jadi-kontroversi-apa-itu-ruu-cipta-kerja?page=all)
 - [Thread perbandingan RUU Cipta Kerja](https://twitter.com/mitatweets/status/1313295806766620672)
+- [UU Cipta Kerja - Paripurna.pdf](https://drive.google.com/file/d/1fIA0-4JwlNZFaL8kM-oVJTaZiUsqJehJ/view?fbclid=IwAR1ezy12QjwqVl4Uht4OoNakXbhQ7Ly4F5rHsvFSCmt-424orx85MB_Hv0w)
 
 ### Petisi
 
