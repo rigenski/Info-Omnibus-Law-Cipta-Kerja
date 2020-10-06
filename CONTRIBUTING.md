@@ -1,7 +1,7 @@
 - Star ( opsional )
 - Fork repository ini
 - Clone repo milikmu
-- Tambahkan link tentang Informasi yang relevan di README.md sesuai format yang telah di buat sebelumnya
+- Tambahkan link tentang Informasi yang relevan di `README.md` sesuai format yang telah di buat sebelumnya
 - Push
 - Pull request
 
